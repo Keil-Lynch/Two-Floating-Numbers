@@ -5,4 +5,4 @@ In defining a floating-point, as the name implies, it is a special type of data 
 2. The output of this program is the result of multiplying two floating point numbers. 
 3. Users enter two float numbers into this program, which stores them into num1 and num2, and then runs. 4. Once entered the numbers will have been multiplied and the program will display the output produced as a result.
 
-***Please read my documentation in the word file in this repository.
+***Please read my documentation in the Word file in this repository.
